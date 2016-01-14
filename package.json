@@ -1,0 +1,15 @@
+{
+  "name": "task-kue",
+  "version": "0.0.1",
+  "description": "Task based Queue that runs on Kue",
+  "main": "index.js",
+  "dependencies": {
+    "kue": "0.10.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rajiv Makhijani",
+  "license": "BSD-2-Clause"
+}
